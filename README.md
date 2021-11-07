@@ -1,4 +1,4 @@
-# ProceedSmiling - Generics without Type Erasure in Javali
+# Generics without Type Erasure in Javali
 
 ## Purpose
 This repository contains the main project of the ETH course 'Advanced Compiler Design' from the Computer Science Master's curriculum.
