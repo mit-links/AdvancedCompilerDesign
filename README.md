@@ -1,7 +1,7 @@
 # Generics without Type Erasure in Javali
 
 ## Purpose
-This repository contains the main project of the ETH course 'Advanced Compiler Design' from the Computer Science Master's curriculum.
+This repository contains the report for the main project of the ETH course 'Advanced Compiler Design' from the Computer Science Master's curriculum.
 The project's goal was to extend the compiler of a subset of Java, called Javali, by a new language feature.
 We extended Javali's compiler with support for generics without type erasure.
 The source code is not publicly available but might be requested from the [ETH Laboratory of Software Technology](https://www.lst.inf.ethz.ch/).
